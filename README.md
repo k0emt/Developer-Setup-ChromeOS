@@ -39,6 +39,12 @@ Install developer apps:
 
 TODO:
   - discover developer tools and extensions
+  
+User Apps:
+  - OneNote
+  - Discord
+  - Zoom
+  - Slack
 
 ## Android apps
 
