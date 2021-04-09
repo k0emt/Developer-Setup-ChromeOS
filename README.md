@@ -67,6 +67,7 @@ TODO: research additional developer tools and extensions
 I tried Wifi Analyzer and it didn't work.  I understand that it may be because of sandboxing android apps?
 
 TODO: get into the android store and go through apps I already own
+
 TODO: discover other apps I might find useful.
 
 ### Linux apps
