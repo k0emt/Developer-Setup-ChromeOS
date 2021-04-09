@@ -13,6 +13,7 @@ For sure install these:
 - Prettier - Code formatter from Prettier
 - Rainbow CSV from mechatroner
 - Rainglow (color themes) from Dayle Reese
+  - Darkside
 - Rainbow Brackets from 2gua
 - YAML from Red Hat
 
