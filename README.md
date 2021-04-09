@@ -80,10 +80,15 @@ Install developer apps:
 - [nvm][2]
 - [node.js][3], v14 with nvm
 - [docker][5]
+  - [Docker's install instructions][8]
   - [How to install and run Docker on a Chromebook][6]
   - [Docker on a Chromebook on Crostini][7]
 
 `curl` and `wget` are also included in the distro.
+
+The Docker installation was a little round about.  Start with the Docker instructions.  Then see the other instructions about setting up to run non-root.
+
+Also, wired up to my GitHub account with ssh.  So, editing this on the Lenovo Duet in vi.
 
 Selecting with a mouse in terminal automatically copies.  Right clicking with the mouse pastes.
 
@@ -107,6 +112,7 @@ I also dug out an old bluetooth earphones set.  The duet has built-in speakers. 
 - [nvm][2]
 - [node.js][3]
 - [docker][5]
+- [Docker's install instructions][8]
 - [How to install and run Docker on a Chromebook][6]
 - [Docker on a Chromebook on Crostini][7]
 
@@ -117,3 +123,4 @@ I also dug out an old bluetooth earphones set.  The duet has built-in speakers. 
 [5]: https://docker.com
 [6]: https://dvillalobos.github.io/2020/How-to-install-and-run-Docker-on-a-Chromebook/
 [7]: http://joe.blog.freemansoft.com/2020/03/docker-on-chromebook-on-crostini.html
+[8]: https://docs.docker.com/engine/install/debian/
