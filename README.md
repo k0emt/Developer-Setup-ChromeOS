@@ -1,5 +1,7 @@
 # Developer Setup ChromeOS
 
+![Lenovo Duet with blue tooth headphones and mouse](lenovo-duet-scaled.webp)
+
 Setting up a Lenovo Duet ChromeOS tablet for developer use.
 
 ## Background
@@ -107,6 +109,16 @@ I do recall some issues with installing some Android apps.  There was some insis
 
 I picked up a super cheap bluetooth mouse.
 I also dug out an old bluetooth earphones set.  The duet has built-in speakers.  But, they aren't that great.  It does _not_ have a headset jack.  However, it does come with a dongle that converts USB-C to a headset jack.  I do intend to pick up a USI stylus to use with it.
+
+## Experience
+
+### 2020.04.11
+
+I am to the point now where I am using the duet with VS Code, git, etc to work on this repo.  
+
+I did get the basic hello world docker container running.
+
+For the picture, I took it with an iPhone (heic).  Uploaded it to OneDrive.  Downloaded it to the duet.  Used a web tool to convert it to webp format.  Then used the file browser to move it to the Linux files folder.  I should probably add Google Drive to my iPhone so I can shortcut a bit.
 
 ## Resources
 
