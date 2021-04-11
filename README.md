@@ -86,6 +86,7 @@ Install developer apps:
   - [Docker's install instructions][8]
   - [How to install and run Docker on a Chromebook][6]
   - [Docker on a Chromebook on Crostini][7]
+- [AWS CLI][9]
 
 `curl` and `wget` are also included in the distro.
 
@@ -120,6 +121,8 @@ I did get the basic hello world docker container running.
 
 For the picture, I took it with an iPhone (heic).  Uploaded it to OneDrive.  Downloaded it to the duet.  Used a web tool to convert it to webp format.  Then used the file browser to move it to the Linux files folder.  I should probably add Google Drive to my iPhone so I can shortcut a bit.
 
+Installed the AWS CLI.  Verified operation.
+
 ## Resources
 
 - [Learning with VS Code on Chromebooks][1]
@@ -129,6 +132,7 @@ For the picture, I took it with an iPhone (heic).  Uploaded it to OneDrive.  Dow
 - [Docker's install instructions][8]
 - [How to install and run Docker on a Chromebook][6]
 - [Docker on a Chromebook on Crostini][7]
+- [AWS CLI][9]
 
 [1]: https://code.visualstudio.com/blogs/2020/12/03/chromebook-get-started
 [2]: https://github.com/nvm-sh/nvm
@@ -138,3 +142,4 @@ For the picture, I took it with an iPhone (heic).  Uploaded it to OneDrive.  Dow
 [6]: https://dvillalobos.github.io/2020/How-to-install-and-run-Docker-on-a-Chromebook/
 [7]: http://joe.blog.freemansoft.com/2020/03/docker-on-chromebook-on-crostini.html
 [8]: https://docs.docker.com/engine/install/debian/
+[9]: https://aws.amazon.com/cli/
