@@ -97,8 +97,9 @@ Selecting with a mouse in terminal automatically copies.  Right clicking with th
 
 Dark mode doesn't work well across all apps.  A prime example was trying to read email in the Yahoo mail app.  If the sender specified black text, you wouldn't be able to read the email on the black background.
 
-Captain Obvious here!  This is a small screen device.  At full 1080P resolution everything is _tiny!_  For the display size setting, I'm using 90% which is 1200 x 750.  It is tolerable.
-Also, some of the keys on the keyboard on the right side are half-width.
+Captain Obvious here!  This is a small screen device.  At full 1080P resolution everything is _tiny!_  For the display size setting, I'm using 90% which is 1200 x 750.  It is tolerable.  Wait a minute.  Didn't I say this is a 1080P device?  How is 1200 x 750 90%?  Well, that's because in the display settings the default scaling has 1080 x 675 as the default scaling.  The slider is make things smaller or bigger.  They should have just left off the "scaling factor" that makes no sense.  It's just poor UX.
+
+Also, some of the keys on the keyboard on the right side are _half-width_.
 
 I do recall some issues with installing some Android apps.  There was some insistence that I needed to purchase the item.  One, I had installed and had to remove.  A log out and a reboot remedied the situation.
 
