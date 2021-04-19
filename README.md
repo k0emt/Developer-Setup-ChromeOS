@@ -50,12 +50,13 @@ User Apps:
 - OneDrive
 - TweetDeck
 - Zoom
+- Altair GraphQL client
+
+- Insomnia (REST/GraphQL) client, it was older 2.7 version, no GraphQL support, removed.
 
 TODO: research additional developer tools and extensions
 
 ### Android apps
-
-- Slack: Usability was awful.  Especially bad was pop up box elements.
 
 - RadarScope, great on the bigger screen
 - OneNote, the Android app is a better experience
@@ -66,7 +67,8 @@ TODO: research additional developer tools and extensions
 - LinkedIN Learning
 - Morse Trainer for Ham Radio
 
-I tried Wifi Analyzer and it didn't work.  I understand that it may be because of sandboxing android apps?
+- Slack, Usability was awful.  Especially bad was pop up box elements. Removed it.
+- Wifi Analyzer didn't work.  I understand that it may be because of sandboxing android apps?
 
 TODO: get into the android store and go through apps I already own
 
@@ -82,11 +84,14 @@ Install developer apps:
 - Python 3, ships with 3.7.3
 - [nvm][2]
 - [node.js][3], v14 with nvm
+  - nvm
+  - gatsby-cli
 - [docker][5]
   - [Docker's install instructions][8]
   - [How to install and run Docker on a Chromebook][6]
   - [Docker on a Chromebook on Crostini][7]
 - [AWS CLI][9]
+- [Insomnia][10] REST/GraphQL client, failed to install.
 
 `curl` and `wget` are also included in the distro.
 
@@ -106,6 +111,8 @@ Also, some of the keys on the keyboard on the right side are _half-width_.
 
 I do recall some issues with installing some Android apps.  There was some insistence that I needed to purchase the item.  One, I had installed and had to remove.  A log out and a reboot remedied the situation.
 
+I _do_ miss that the keyboard isn't backlit.
+
 ## Accessories
 
 I picked up a super cheap bluetooth mouse.
@@ -113,15 +120,7 @@ I also dug out an old bluetooth earphones set.  The duet has built-in speakers. 
 
 ## Experience
 
-### 2020.04.11
-
-I am to the point now where I am using the duet with VS Code, git, etc to work on this repo.  
-
-I did get the basic hello world docker container running.
-
-For the picture, I took it with an iPhone (heic).  Uploaded it to OneDrive.  Downloaded it to the duet.  Used a web tool to convert it to webp format.  Then used the file browser to move it to the Linux files folder.  I should probably add Google Drive to my iPhone so I can shortcut a bit.
-
-Installed the AWS CLI.  Verified operation.
+I am [journaling][11] my experiences.
 
 ## Resources
 
@@ -143,3 +142,5 @@ Installed the AWS CLI.  Verified operation.
 [7]: http://joe.blog.freemansoft.com/2020/03/docker-on-chromebook-on-crostini.html
 [8]: https://docs.docker.com/engine/install/debian/
 [9]: https://aws.amazon.com/cli/
+[10]: https://support.insomnia.rest/article/156-installation
+[11]: journal.md
