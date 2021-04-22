@@ -36,6 +36,12 @@ This was easily found in Settings -> Developers -> Linux development environment
 I enabled the reading list feature.
 Experimented with and turned off dark mode theming.
 
+Discovered that you can view system information at <chrome://system>  Notable information includes:
+
+- crostini for Linux container
+- network_devices
+- power_supply_info
+
 ## Applications
 
 With a ChromeOS device you can have three different types of apps installed.  Chrome apps which are web based applications, Android store applications (I understand that these run in a container), and Linux apps.
