@@ -89,7 +89,7 @@ Install developer apps:
 - `git`, ships with v2.20.1
 - Python 3, ships with 3.7.3
 - [nvm][2]
-- [node.js][3], v14 with nvm
+- [node.js][3], v16 with nvm
   - nvm
   - gatsby-cli
 - [docker][5]
@@ -149,4 +149,4 @@ I am [journaling][11] my experiences.
 [8]: https://docs.docker.com/engine/install/debian/
 [9]: https://aws.amazon.com/cli/
 [10]: https://support.insomnia.rest/article/156-installation
-[11]: journal.md
+[11]: Journal/
