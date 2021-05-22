@@ -56,11 +56,29 @@ User Apps:
 - OneDrive
 - TweetDeck
 - Zoom
+
+- Insomnia (REST/GraphQL) client, it was older 2.7 version, no GraphQL support, _removed_.
+
+### Chrome Extensions
+
+- Adblock Plus
 - Altair GraphQL client
+- Animation Policy
+- axe DevTools
+- Debugger for Adobe Analytics
+- EditThisCookie
+- Eye Dropper
+- JSON Formatter
+- Lighthouse
+- Page Ruler Redux
+- PDF Reader
+- React Developer Tools
+- Redux DevTools
 
-- Insomnia (REST/GraphQL) client, it was older 2.7 version, no GraphQL support, removed.
+Some extensions I've found useful in the past:
 
-TODO: research additional developer tools and extensions
+- Revolver - Tabs
+- XPath Helper
 
 ### Android apps
 
@@ -73,12 +91,8 @@ TODO: research additional developer tools and extensions
 - LinkedIN Learning
 - Morse Trainer for Ham Radio
 
-- Slack, Usability was awful.  Especially bad was pop up box elements. Removed it.
-- Wifi Analyzer didn't work.  I understand that it may be because of sandboxing android apps?
-
-TODO: get into the android store and go through apps I already own
-
-TODO: discover other apps I might find useful.
+- Slack, Usability was awful.  Especially bad was pop up box elements. _Removed it._
+- Wifi Analyzer _didn't work_.  I understand that it may be because of sandboxing android apps?
 
 ### Linux apps
 
@@ -98,6 +112,7 @@ Install developer apps:
   - [Docker on a Chromebook on Crostini][7]
 - [AWS CLI][9]
 - [Insomnia][10] REST/GraphQL client, failed to install.
+- [Hexchat][12] IRC client
 
 `curl` and `wget` are also included in the distro.
 
@@ -150,3 +165,4 @@ I am [journaling][11] my experiences.
 [9]: https://aws.amazon.com/cli/
 [10]: https://support.insomnia.rest/article/156-installation
 [11]: Journal/
+[12]: https://hexchat.github.io/

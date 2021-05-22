@@ -16,6 +16,7 @@ For sure install these:
   - Darkside
 - Rainbow Brackets from 2gua
 - YAML from Red Hat
+- Peacock from John Papa
 
 Maybe install these:
 
