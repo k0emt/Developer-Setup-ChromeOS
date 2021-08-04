@@ -89,6 +89,7 @@ Some extensions I've found useful in the past:
 - Discord
 - Very old GoF Design Patterns app
 - LinkedIN Learning
+- Kindle
 - Morse Trainer for Ham Radio
 
 - Slack, Usability was awful.  Especially bad was pop up box elements. _Removed it._
@@ -106,6 +107,7 @@ Install developer apps:
 - [node.js][3], v16 with nvm
   - nvm
   - gatsby-cli
+  - aws-cdk
 - [docker][5]
   - [Docker's install instructions][8]
   - [How to install and run Docker on a Chromebook][6]
