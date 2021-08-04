@@ -112,6 +112,7 @@ Install developer apps:
   - [Docker's install instructions][8]
   - [How to install and run Docker on a Chromebook][6]
   - [Docker on a Chromebook on Crostini][7]
+  - `docker-compose` will not install properly on Duet because of the ARM architecture.  There is an alternate method using `python` and `pip`.
 - [AWS CLI][9]
 - [Insomnia][10] REST/GraphQL client, failed to install.
 - [Hexchat][12] IRC client
