@@ -3,6 +3,7 @@
 ![Lenovo Duet with blue tooth headphones and mouse](lenovo-duet-scaled.webp)
 
 Setting up a Lenovo Duet ChromeOS tablet for developer use.
+Expanded to include Lenovo ThinkPad C13 Yoga Chromebook.
 
 ## Background
 
@@ -22,6 +23,18 @@ I've always been a fan of small devices and seeing what they can be pushed to do
   - 1080P+ display
   - Included keyboard
   - USI stylus support (I'm a long time tablet/stylus user)
+
+### Why the Lenovo Thinkpad C13 Yoga?
+
+With the experience of the Duet gained, I was interested in trying a more capable Chromebook.
+I liked the sexy red Samsung Galaxy Chromebook.  Ultimately, the keyboard, processor, and RAM of the C13 won me over.
+
+- Full size ThinkPad keyboard, with TrackPoint
+- I do like the convertible form factor of the C13
+- The specs of the C13 makes it a very nice machine
+  - Ryzen 7, 16G RAM, 256G SSD, 1080P display, TrackPoint, on board USI stylus
+
+### Use Case
 
 What's my use case?  I plan to revisit the Android ecosystem and check out the state of ChromeOS.  I appreciate experiential learning.  I am also very intrigued with the ability to run Linux apps.  It is my intent to use this device for a small amount of consumption and for Linux experimentation and development.
 
@@ -65,13 +78,13 @@ User Apps:
 - Altair GraphQL client
 - Animation Policy
 - axe DevTools
+- Boomerang SOAP and REST client
 - Debugger for Adobe Analytics
 - EditThisCookie
 - Eye Dropper
 - JSON Formatter
 - Lighthouse
 - Page Ruler Redux
-- PDF Reader
 - React Developer Tools
 - Redux DevTools
 
