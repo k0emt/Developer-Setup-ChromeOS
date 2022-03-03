@@ -115,6 +115,7 @@ Install developer apps:
 - `terminal` (built-in), pin it to start
 - [Visual Studio Code][1] and [extensions][4]
 - `git`, ships with v2.20.1
+- `git-gui`
 - Python 3, ships with 3.7.3
 - [nvm][2]
 - [node.js][3], v16 with nvm
