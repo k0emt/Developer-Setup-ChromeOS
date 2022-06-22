@@ -74,7 +74,7 @@ User Apps:
 
 ### Chrome Extensions
 
-- Adblock Plus
+- uBlock Origin
 - Altair GraphQL client
 - Animation Policy
 - axe DevTools
@@ -82,14 +82,17 @@ User Apps:
 - Debugger for Adobe Analytics
 - EditThisCookie
 - Eye Dropper
-- JSON Formatter
+- gRPC-Web Developer Tools
+- JSON Formatter (callumlocke.com)
 - Lighthouse
-- Page Ruler Redux
+- Smaart Page Ruler
 - React Developer Tools
 - Redux DevTools
+- Testing Playground
 
 Some extensions I've found useful in the past:
 
+- Adblock Plus
 - Revolver - Tabs
 - XPath Helper
 
@@ -132,6 +135,7 @@ Install developer apps:
 - [AWS CLI][9]
 - [Insomnia][10] REST/GraphQL client, failed to install.
 - [Hexchat][12] IRC client
+- `go` programming lanuage
 
 `curl` and `wget` are also included in the distro.
 
